@@ -1,6 +1,7 @@
 [
   {
     "conf_name": "Workshop on Artificial Intelligence in Affective Computing",
+    "conf_name_short": "IJCAI workshop on AI and Affective Computing",
     "date": "15 July 2018",
     "papers": [
       {
@@ -68,6 +69,7 @@
   },
   {
     "conf_name": "Symposium on\r Advances in Approximate Bayesian Inference",
+    "conf_name_short": "AABI 2019",
     "date": "08 December 2019",
     "papers": [
       {
@@ -315,6 +317,7 @@
   },
   {
     "conf_name": "Algorithmic Learning Theory",
+    "conf_name_short": "ALT 2020",
     "date": "",
     "papers": [
       {
@@ -736,6 +739,7 @@
   },
   {
     "conf_name": "Machine Learning for Healthcare Conference",
+    "conf_name_short": "Conference on Machine Learning for Healthcare 2019",
     "date": "9-10 August 2019",
     "papers": [
       {
@@ -1206,6 +1210,7 @@
   },
   {
     "conf_name": "Asian Conference on Machine Learning",
+    "conf_name_short": "ACML 2019",
     "date": "17-19 November 2019",
     "papers": [
       {
@@ -2129,6 +2134,7 @@
   },
   {
     "conf_name": "2nd Workshop on Online Recommender Systems and User Modeling",
+    "conf_name_short": "Workshop on Online Recommender Systems and User Modeling 2019",
     "date": "19 September 2019",
     "papers": [
       {
@@ -2220,6 +2226,7 @@
   },
   {
     "conf_name": "Conformal and Probabilistic Prediction and Applications",
+    "conf_name_short": "Workshop on Conformal and Probabilistic Prediction with Applications (COPA) 2019",
     "date": "9-11 September 2019",
     "papers": [
       {
@@ -2403,6 +2410,7 @@
   },
   {
     "conf_name": "The 2019 ACM SIGKDD Workshop on Causal Discovery",
+    "conf_name_short": "KDD Workshop on Causal Discovery 2019",
     "date": "05 August 2019",
     "papers": [
       {
@@ -2501,6 +2509,7 @@
   },
   {
     "conf_name": "International Symposium on Imprecise Probabilities: Theories and Applications",
+    "conf_name_short": "ISIPTA 2019",
     "date": "3-6 July 2019",
     "papers": [
       {
@@ -3019,6 +3028,7 @@
   },
   {
     "conf_name": "International Conference on Medical Imaging with Deep Learning",
+    "conf_name_short": "MIDL 2019",
     "date": "8-10 July 2019",
     "papers": [
       {
@@ -3667,6 +3677,7 @@
   },
   {
     "conf_name": "International Conference on Machine Learning",
+    "conf_name_short": "ICML 2019",
     "date": "9-15 June 2019",
     "papers": [
       {
@@ -12750,6 +12761,7 @@
   },
   {
     "conf_name": "Symposium on Advances in Approximate Bayesian Inference",
+    "conf_name_short": "AABI 2018",
     "date": "02 December 2018",
     "papers": [
       {
@@ -12786,6 +12798,7 @@
   },
   {
     "conf_name": "The 22nd International Conference on Artificial Intelligence and Statistics",
+    "conf_name_short": "AISTATS 2019",
     "date": "16-18 April 2019",
     "papers": [
       {
@@ -16898,6 +16911,7 @@
   },
   {
     "conf_name": "International Conference on Grammatical Inference",
+    "conf_name_short": "ICGI 2018",
     "date": "5-7 September 2018",
     "papers": [
       {
@@ -17028,6 +17042,7 @@
   },
   {
     "conf_name": "Conference on Learning Theory",
+    "conf_name_short": "COLT 2019",
     "date": "25-28 June 2019",
     "papers": [
       {
@@ -18442,6 +18457,7 @@
   },
   {
     "conf_name": "Algorithmic Learning Theory",
+    "conf_name_short": "ALT 2019",
     "date": "22-24 March 2019",
     "papers": [
       {
@@ -18848,6 +18864,7 @@
   },
   {
     "conf_name": "Machine Learning for Healthcare Conference",
+    "conf_name_short": "Machine Learning for Healthcare",
     "date": "17-18 August 2018",
     "papers": [
       {
@@ -19213,6 +19230,7 @@
   },
   {
     "conf_name": "Second International Workshop on Learning with Imbalanced Domains: Theory and Applications",
+    "conf_name_short": "LIDTA 2018",
     "date": "10 September 2018",
     "papers": [
       {
@@ -19321,6 +19339,7 @@
   },
   {
     "conf_name": "Asian Conference on Machine Learning",
+    "conf_name_short": "ACML 2018",
     "date": "14-16 November 2018",
     "papers": [
       {
@@ -20016,6 +20035,7 @@
   },
   {
     "conf_name": "Conference on Robot Learning",
+    "conf_name_short": "Conference on Robot Learning 2018",
     "date": "29-31 October 2018",
     "papers": [
       {
@@ -20924,6 +20944,7 @@
   },
   {
     "conf_name": "Proceedings of 2018 ACM SIGKDD Workshop on Causal Discovery",
+    "conf_name_short": "2018 KDD Workshop on Causal Discovery",
     "date": "20 August 2018",
     "papers": [
       {
@@ -20985,6 +21006,7 @@
   },
   {
     "conf_name": "International Conference on Predictive Applications and APIs",
+    "conf_name_short": "PAPIs 2017",
     "date": "24-25 October 2017",
     "papers": [
       {
@@ -21056,6 +21078,7 @@
   },
   {
     "conf_name": "International Workshop on Cost-Sensitive Learning",
+    "conf_name_short": "COST 2018",
     "date": "05 May 2018",
     "papers": [
       {
@@ -21116,6 +21139,7 @@
   },
   {
     "conf_name": "Conference On Learning Theory",
+    "conf_name_short": "COLT 2018",
     "date": "6-9 July 2018",
     "papers": [
       {
@@ -22128,6 +22152,7 @@
   },
   {
     "conf_name": "International Conference on Machine Learning",
+    "conf_name_short": "ICML 2018",
     "date": "10-15 July 2018",
     "papers": [
       {
@@ -29418,6 +29443,7 @@
   },
   {
     "conf_name": "Conformal and Probabilistic Prediction and Applications",
+    "conf_name_short": "COPA 2018",
     "date": "11-13 June 2018",
     "papers": [
       {
@@ -29618,6 +29644,7 @@
   },
   {
     "conf_name": "International Workshop on Medication and Adverse Drug Event Detection",
+    "conf_name_short": "ADE Identification",
     "date": "04 May 2018",
     "papers": [
       {
@@ -29717,6 +29744,7 @@
   },
   {
     "conf_name": "Algorithmic Learning Theory",
+    "conf_name_short": "ALT 2018",
     "date": "7-9 April 2018",
     "papers": [
       {
@@ -30097,6 +30125,7 @@
   },
   {
     "conf_name": "International Conference on Artificial Intelligence and Statistics",
+    "conf_name_short": "AISTATS 2018",
     "date": "9-11 April 2018",
     "papers": [
       {
@@ -32560,6 +32589,7 @@
   },
   {
     "conf_name": "Conference on Fairness",
+    "conf_name_short": "FAT* 2018",
     "date": "Accountability and Transparency",
     "papers": [
       {
@@ -32799,6 +32829,7 @@
   },
   {
     "conf_name": "Open Algorithm Selection Challenge 2017",
+    "conf_name_short": "Open Algorithm Selection Challenge 2017",
     "date": "11-12 September 2017",
     "papers": [
       {
@@ -32863,6 +32894,7 @@
   },
   {
     "conf_name": "Machine Learning for Healthcare Conference",
+    "conf_name_short": "MLHC 2017",
     "date": "18-19 August 2017",
     "papers": [
       {
@@ -33204,6 +33236,7 @@
   },
   {
     "conf_name": "Asian Conference on Machine Learning",
+    "conf_name_short": "ACML 2017",
     "date": "15-17 November 2017",
     "papers": [
       {
@@ -33686,6 +33719,7 @@
   },
   {
     "conf_name": "Conference on Robot Learning",
+    "conf_name_short": "CoRL 2017",
     "date": "13-15 November 2017",
     "papers": [
       {
@@ -34269,6 +34303,7 @@
   },
   {
     "conf_name": "First International Workshop on Learning with Imbalanced Domains: Theory and Applications",
+    "conf_name_short": "LIDTA 2017",
     "date": "22 September 2017",
     "papers": [
       {
@@ -34429,6 +34464,7 @@
   },
   {
     "conf_name": "International Conference on Algorithmic Learning Theory",
+    "conf_name_short": "ALT 2017",
     "date": "15-17 October 2017",
     "papers": [
       {
@@ -34800,6 +34836,7 @@
   },
   {
     "conf_name": "International Conference on Probabilistic Graphical Models",
+    "conf_name_short": "Conference on Probabilistic Graphical Models 2018",
     "date": "11-14 September 2018",
     "papers": [
       {
@@ -35299,6 +35336,7 @@
   },
   {
     "conf_name": "Advanced Methodologies for Bayesian Networks",
+    "conf_name_short": "2017 Workshop on Advanced Methodologies for Bayesian Networks",
     "date": "20-22 September 2017",
     "papers": [
       {
@@ -35526,6 +35564,7 @@
   },
   {
     "conf_name": "KDD 2017 Workshop on Anomaly Detection in Finance",
+    "conf_name_short": "the KDD 2017 Workshop on Anomaly Detection in Finance",
     "date": "14 August 2017",
     "papers": [
       {
@@ -35670,6 +35709,7 @@
   },
   {
     "conf_name": "International Conference on Machine Learning",
+    "conf_name_short": "ICML 2017",
     "date": "6-11 August 2017",
     "papers": [
       {
@@ -40736,6 +40776,7 @@
   },
   {
     "conf_name": "Medical Informatics and Healthcare",
+    "conf_name_short": "MIH 2017",
     "date": "14 August 2017",
     "papers": [
       {
@@ -40815,6 +40856,7 @@
   },
   {
     "conf_name": "International Conference on Predictive Applications and APIs",
+    "conf_name_short": "3rd International Conference on Predictive Applications and APIs",
     "date": "11-12 October 2016",
     "papers": [
       {
@@ -40856,6 +40898,7 @@
   },
   {
     "conf_name": "IJCAI 2017 Workshop on Artificial Intelligence in Affective Computing",
+    "conf_name_short": "1st IJCAI Workshop on Artificial Intelligence in Affective Computing",
     "date": "20 August 2017",
     "papers": [
       {
@@ -40922,6 +40965,7 @@
   },
   {
     "conf_name": "Conference on Learning Theory",
+    "conf_name_short": "COLT 2017",
     "date": "7-10 July 2017",
     "papers": [
       {
@@ -41750,6 +41794,7 @@
   },
   {
     "conf_name": "Proceedings of the Tenth International Symposium on Imprecise Probability: Theories and Applications",
+    "conf_name_short": "ISIPTA '17",
     "date": "10-14 July 2017",
     "papers": [
       {
@@ -42091,6 +42136,7 @@
   },
   {
     "conf_name": "Conformal and Probabilistic Prediction and Applications",
+    "conf_name_short": "Workshop on Conformal and Probabilistic Prediction with Applications (COPA) 2017",
     "date": "13-16 June 2017",
     "papers": [
       {
@@ -42300,6 +42346,7 @@
   },
   {
     "conf_name": "Imperfect Decision Makers: Admitting Real-World Rationality",
+    "conf_name_short": "NIPS 2016 Workshop on Imperfect Decision Makers",
     "date": "09 December 2016",
     "papers": [
       {
@@ -42425,6 +42472,7 @@
   },
   {
     "conf_name": "Artificial Intelligence and Statistics",
+    "conf_name_short": "AISTATS 2017",
     "date": "20-22 April 2017",
     "papers": [
       {
@@ -44311,6 +44359,7 @@
   },
   {
     "conf_name": "Workshop on Automatic Machine Learning",
+    "conf_name_short": "AutoML 2016 Workshop",
     "date": "24 June 2016",
     "papers": [
       {
@@ -44427,6 +44476,7 @@
   },
   {
     "conf_name": "Asian Conference on Machine Learning",
+    "conf_name_short": "ACML 2016",
     "date": "16-18 November 2016",
     "papers": [
       {
@@ -44781,6 +44831,7 @@
   },
   {
     "conf_name": "International Conference on Grammatical Inference",
+    "conf_name_short": "ICGI 2016",
     "date": "5-7 October 2016",
     "papers": [
       {
@@ -44985,6 +45036,7 @@
   },
   {
     "conf_name": "Machine Learning for Healthcare Conference",
+    "conf_name_short": "MLHC 2016",
     "date": "19-20 August 2016",
     "papers": [
       {
@@ -45233,6 +45285,7 @@
   },
   {
     "conf_name": "NIPS 2016 Time Series Workshop",
+    "conf_name_short": "NIPS 2016 Time Series Workshop",
     "date": "09 December 2016",
     "papers": [
       {
@@ -45304,6 +45357,7 @@
   },
   {
     "conf_name": "Workshop on Big Data",
+    "conf_name_short": "BigMine 2016",
     "date": "Streams and Heterogeneous Source Mining: Algorithms",
     "papers": [
       {
@@ -45400,6 +45454,7 @@
   },
   {
     "conf_name": "Conference on Probabilistic Graphical Models",
+    "conf_name_short": "PGM 2016",
     "date": "6-9 September 2016",
     "papers": [
       {
@@ -45915,6 +45970,7 @@
   },
   {
     "conf_name": "Artificial Intelligence and Statistics",
+    "conf_name_short": "AISTATS 2016",
     "date": "9-11 May 2016",
     "papers": [
       {
@@ -47765,6 +47821,7 @@
   },
   {
     "conf_name": "Conference on Predictive APIs and Apps",
+    "conf_name_short": "PAPIs 2015",
     "date": "6-7 August 2015",
     "papers": [
       {
@@ -47823,6 +47880,7 @@
   },
   {
     "conf_name": "Conference on Learning Theory",
+    "conf_name_short": "COLT 2016",
     "date": "23-26 June 2016",
     "papers": [
       {
@@ -48573,6 +48631,7 @@
   },
   {
     "conf_name": "International Conference on Machine Learning",
+    "conf_name_short": "ICML 2016",
     "date": "20-22 June 2016",
     "papers": [
       {
@@ -52308,6 +52367,7 @@
   },
   {
     "conf_name": "Statistically Sound Data Mining",
+    "conf_name_short": "ECML/PKDD Workshop on Statistically Sound Data Mining 2014",
     "date": "15 September 2014",
     "papers": [
       {
@@ -52368,6 +52428,7 @@
   },
   {
     "conf_name": "Neural Connectomics Workshop",
+    "conf_name_short": "Neural Connectomics Workshop 2014",
     "date": "15 September 2014",
     "papers": [
       {
@@ -52476,6 +52537,7 @@
   },
   {
     "conf_name": "Asian Conference on Machine Learning",
+    "conf_name_short": "ACML 2015",
     "date": "20-22 November 2015",
     "papers": [
       {
@@ -52800,6 +52862,7 @@
   },
   {
     "conf_name": "Feature Extraction: Modern Questions and Challenges",
+    "conf_name_short": "NIPS Workshop on Feature Extraction 2015",
     "date": "11 December 2015",
     "papers": [
       {
@@ -53014,6 +53077,7 @@
   },
   {
     "conf_name": "Machine Learning for Interactive Systems",
+    "conf_name_short": "MLIS 2015",
     "date": "11 July 2015",
     "papers": [
       {
@@ -53132,6 +53196,7 @@
   },
   {
     "conf_name": "NIPS 2014 Workshop on High-energy Physics and Machine Learning",
+    "conf_name_short": "HEPML 2014",
     "date": "13 December 2014",
     "papers": [
       {
@@ -53231,6 +53296,7 @@
   },
   {
     "conf_name": "Workshop on Big Data",
+    "conf_name_short": "BigMine 2015",
     "date": "Streams and Heterogeneous Source Mining: Algorithms",
     "papers": [
       {
@@ -53339,6 +53405,7 @@
   },
   {
     "conf_name": "Conference on Learning Theory",
+    "conf_name_short": "COLT 2015",
     "date": "3-6 July 2015",
     "papers": [
       {
@@ -54178,6 +54245,7 @@
   },
   {
     "conf_name": "Asian Conference on Machine Learning",
+    "conf_name_short": "ACML 2014",
     "date": "26-28 November 2014",
     "papers": [
       {
@@ -54461,6 +54529,7 @@
   },
   {
     "conf_name": "Artificial Intelligence and Statistics",
+    "conf_name_short": "AISTATS 2015",
     "date": "9-12 May 2015",
     "papers": [
       {
@@ -55858,6 +55927,7 @@
   },
   {
     "conf_name": "International Conference on Machine Learning",
+    "conf_name_short": "ICML 2015",
     "date": "7-9 July 2015",
     "papers": [
       {
@@ -58888,6 +58958,7 @@
   },
   {
     "conf_name": "Proceedings of the 3rd International Workshop on Big Data",
+    "conf_name_short": "BIGMINE 2014",
     "date": "Streams and Heterogeneous Source Mining: Algorithms",
     "papers": [
       {
@@ -59075,6 +59146,7 @@
   },
   {
     "conf_name": "Conference on Learning Theory",
+    "conf_name_short": "COLT 2014",
     "date": "13-15 June 2014",
     "papers": [
       {
@@ -59730,6 +59802,7 @@
   },
   {
     "conf_name": "International Conference on Grammatical Inference",
+    "conf_name_short": "ICGI 2014",
     "date": "17-19 September 2014",
     "papers": [
       {
@@ -59900,6 +59973,7 @@
   },
   {
     "conf_name": "Artificial Intelligence and Statistics",
+    "conf_name_short": "AISTATS 2014",
     "date": "22-25 April 2014",
     "papers": [
       {
@@ -61246,6 +61320,7 @@
   },
   {
     "conf_name": "International Conference on Machine Learning",
+    "conf_name_short": "ICML 2014",
     "date": "22-24 June 2014",
     "papers": [
       {
@@ -64695,6 +64770,7 @@
   },
   {
     "conf_name": "Artificial Intelligence and Statistics",
+    "conf_name_short": "AISTATS 2013",
     "date": "29-1 May 2013",
     "papers": [
       {
@@ -65474,6 +65550,7 @@
   },
   {
     "conf_name": "Conference on Learning Theory",
+    "conf_name_short": "COLT 2013",
     "date": "12-14 June 2013",
     "papers": [
       {

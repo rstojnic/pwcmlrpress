@@ -8,6 +8,7 @@ It scrapes all volumes accessible from http://proceedings.mlr.press/ that have v
 ```
 {
     'conf_name': str,
+    'conf_name_short': str,
     'date': str,
     'papers': [
         {
